@@ -1434,6 +1434,11 @@ aria-query@^3.0.0:
     ast-types-flow "0.0.7"
     commander "^2.11.0"
 
+armour-antd@^0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/armour-antd/-/armour-antd-0.0.12.tgz#790ff11097b55d6e84cadad996ac248d750c5513"
+  integrity sha512-vOwNPwgLcuPakecrmK5YirH5TF5w2da46Y+z1gug27EozHi2L8+aO1g8RdmBGV9XIrdcooJAgG83U4tvwA0Wfg==
+
 arr-diff@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/arr-diff/-/arr-diff-2.0.0.tgz#8f3b827f955a8bd669697e4a4256ac3ceae356cf"
